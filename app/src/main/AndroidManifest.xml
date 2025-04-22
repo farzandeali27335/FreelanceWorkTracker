@@ -13,6 +13,9 @@
         android:theme="@style/Theme.FreelanceWorkTracker"
         tools:targetApi="31">
         <activity
+            android:name=".AddProjectActivity"
+            android:exported="false" />
+        <activity
             android:name=".CreateProjectActivity"
             android:exported="false" />
         <activity
