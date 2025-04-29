@@ -233,7 +233,7 @@ fun customerLogin(customerData: Freelancer, context: Context) {
 
                     FreelancerPrefs.setUserSessionActive(context, true)
                     FreelancerPrefs.saveUserEmail(context, dbData.emailid)
-                    FreelancerPrefs.saveUserEmail(context, dbData.name)
+                    FreelancerPrefs.saveUserName(context, dbData.name)
 
                     Toast.makeText(context, "Login Successfully", Toast.LENGTH_SHORT).show()
 
