@@ -1,4 +1,4 @@
-package com.example.freelanceworktracker.ui.theme
+package tesside.farzandeali.freelanceworktracker.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518025004572",
+    "project_id": "freelanceworktracker",
+    "storage_bucket": "freelanceworktracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518025004572:android:cc6b4877c6b4142ebd01d9",
+        "android_client_info": {
+          "package_name": "tesside.farzandeali.freelanceworktracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9StNhT4It9bdobcTt46R6IfKsu0zPxVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

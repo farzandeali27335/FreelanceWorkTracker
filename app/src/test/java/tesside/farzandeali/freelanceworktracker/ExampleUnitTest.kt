@@ -1,4 +1,4 @@
-package com.example.freelanceworktracker
+package tesside.farzandeali.freelanceworktracker
 
 import org.junit.Test
 
