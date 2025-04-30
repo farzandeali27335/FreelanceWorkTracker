@@ -147,7 +147,7 @@ fun HomeScreen(viewModel: ProjectViewModel) {
         )
     }
 
-    Column(modifier = Modifier.fillMaxSize().padding(WindowInsets.systemBars.asPaddingValues())) {
+    Column(modifier = Modifier.fillMaxSize()) {
         Row(
             modifier = Modifier
                 .background(color = Color.Blue)
@@ -202,7 +202,7 @@ fun HomeScreen(viewModel: ProjectViewModel) {
                 }
             } else {
                 Box(
-                    modifier = Modifier.fillMaxSize()
+                    modifier = Modifier.weight(1f)
                 ) {
                     Text(
                         text = "No Projects added till now",
